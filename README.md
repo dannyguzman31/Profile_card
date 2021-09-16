@@ -23,6 +23,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
+![screenshot](https://user-images.githubusercontent.com/42854222/133686446-35a732f7-f9a0-4db8-8382-e13878961e63.png)
+
+![screenshot2](https://user-images.githubusercontent.com/42854222/133686457-e94864e7-f1f9-4f63-99a1-bb100b429c47.png)
+
+
 
 ### Links
 
